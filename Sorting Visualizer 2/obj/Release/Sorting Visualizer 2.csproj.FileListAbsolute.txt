@@ -1,0 +1,10 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Sorting Visualizer 2\Sorting Visualizer 2\bin\Release\Sorting Visualizer 2.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Sorting Visualizer 2\Sorting Visualizer 2\bin\Release\Sorting Visualizer 2.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Sorting Visualizer 2\Sorting Visualizer 2\bin\Release\Sorting Visualizer 2.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Sorting Visualizer 2\Sorting Visualizer 2\obj\Release\Sorting_Visualizer_2.Form1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Sorting Visualizer 2\Sorting Visualizer 2\obj\Release\Sorting_Visualizer_2.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Sorting Visualizer 2\Sorting Visualizer 2\obj\Release\Sorting_Visualizer_2.views.ArrayPictureBox.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Sorting Visualizer 2\Sorting Visualizer 2\obj\Release\Sorting Visualizer 2.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Sorting Visualizer 2\Sorting Visualizer 2\obj\Release\Sorting Visualizer 2.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Sorting Visualizer 2\Sorting Visualizer 2\obj\Release\Sorting Visualizer 2.pdb
+C:\Users\User\documents\visual studio 2015\Projects\Sorting Visualizer 2\Sorting Visualizer 2\obj\Release\Sorting Visualizer 2.csprojResolveAssemblyReference.cache
